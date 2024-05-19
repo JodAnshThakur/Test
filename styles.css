@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.box {
+  width: 100vw;
+  height: 30vh;
+  background-color: rgb(227, 137, 137);
+  color: white;
+}
